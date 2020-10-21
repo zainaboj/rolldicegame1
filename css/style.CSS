@@ -1,0 +1,95 @@
+
+
+.body{background-color: #66bfbf;
+  text-align: center;
+   margin: 10px;
+   font-family: monospace;
+   padding: 16px;
+   margin-top: 30px;
+   height: auto;
+
+}
+img {
+            width: 100%;}
+
+.head {
+background-color: #66bfbf;
+border: 1px solid #ff4b5c;
+font-family: monospace;
+
+}
+/*#e0ece4  #ff4b5c #056674 #66bfbf */
+.navbar {
+  overflow: hidden;
+  background-color:#66bfbf ;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+.navbar a {
+  float: left;
+  display: block;
+  color: #056674;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 20px;
+}
+.navbar a:hover {
+  background: #ff4b5c;
+  color: black;
+}
+.main {
+
+}
+/* bar*/
+.div {
+  text-align: center;
+  background-color:#e4f9f5;
+  width: auto;
+  border-width: 50px;
+  border: solid;
+  border-top: 0;
+  padding: 5px;
+  margin: auto;
+
+}
+.Div2 {
+    background-color: #ff4b5c;
+  width: auto;
+  border-width: 20px;
+  border: dotted;
+  text-align: center;
+  padding: 5px;
+  margin: auto;
+  margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+}
+   .p{
+   text-decoration: underline;
+   text-align: center;
+   text-color:#e0ece4;
+   font-size: 20px;
+ }
+ .invisible {
+ visibility : hidden;
+
+    font-size: 20px;
+  }
+ #text{
+   font-size: 20px
+ }
+ #Replay{
+ background-color:#e0ece4;
+ font-size: 20px;
+ font-family: monospace;
+ border: 3px solid #ff4b5c;
+ color: #66bfbf;
+ padding: 10px;}
+hr
+{background-color:#ff4b5c;
+border-style:dotted none none;
+height: 2px;
+width: 30%;
+}
